@@ -1,0 +1,2 @@
+2024-04-11 11:42:28 : Exception occurred: com.mysql.cj.jdbc.Driver
+2024-04-11 11:42:28 : IOException occurred: Address already in use: JVM_Bind
